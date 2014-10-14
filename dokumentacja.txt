@@ -1,0 +1,15 @@
+Dokumentacja programu do edycji obrazów
+
+Wymagania:
+	FUNKCJONALNE (co robi?):
+		-Wczytywanie obrazu z pliku, formaty jpg i gif
+		-Zapisywanie obrazu do pliku o formacie jpg i gif
+		-Nak³adanie efektów na obraz: sepia, blur
+		-Kadrowanie wg zaznaczenia u¿ytkownika
+		-Paleta kolorów w skali RGB
+		-Obracanie obrazu w lewo/prawo o 90 st., 180 st., 270 st.
+		-Narzêdzie kube³ek - implementacja algorytmu flood fill, wype³nia obszar wybranym kolorem
+		-Menu
+	NIEFUNKCJONALNE (jaki jest?):
+		-GUI w odcieniach szaroœci
+		-Minimalistyczne GUI
